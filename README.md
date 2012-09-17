@@ -1,0 +1,1 @@
+This helps teachers create their students' "Appointment Clocks" which are used to indicate which 12 different students that a given student might pair with for an activity, depending on which "hour" the teacher decides.
