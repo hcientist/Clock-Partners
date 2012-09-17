@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"pair",
+				"pairAll"
+			],
+			[
+				"clo",
+				"clock_partners"
+			],
+			[
 				"io",
 				"iosListImage"
 			],
@@ -260,6 +268,10 @@
 	},
 	"file_history":
 	[
+		"/Users/tgm/dev/Clock Partners/img/clock_face.svg",
+		"/Users/tgm/dev/Clock Partners/index.html",
+		"/Users/tgm/dev/Clock Partners/js/main.js",
+		"/Users/tgm/dev/Clock Partners/.gitignore",
 		"/Users/tgm/dev/scaling-dimensions/db/fixtures/items.yml",
 		"/Users/tgm/dev/scaling-dimensions/db/schema.rb",
 		"/Users/tgm/dev/scaling-dimensions/db/migrate/20120913203715_add_surface_area_to_items.rb",
@@ -383,11 +395,7 @@
 		"/Users/tgm/dev/The-Platypus-Project/db/migrate/20120820180527_add_relationships_to_section.rb",
 		"/Users/tgm/.gitconfig",
 		"/Users/tgm/dev/The-Platypus-Project/lib/tasks/db.rake",
-		"/Users/tgm/dev/The-Platypus-Project/app/controllers/search_controller.rb",
-		"/Users/tgm/dev/The-Platypus-Project/app/controllers/search_items_controller.rb",
-		"/Users/tgm/dev/The-Platypus-Project/db/migrate/20120820142115_add_person_to_search_list.rb",
-		"/Users/tgm/dev/The-Platypus-Project/db/migrate/20120328074425_create_search_items.rb",
-		"/Users/tgm/dev/The-Platypus-Project/db/migrate/20120819143000_relate_roles_and_people.rb"
+		"/Users/tgm/dev/The-Platypus-Project/app/controllers/search_controller.rb"
 	],
 	"find":
 	{
@@ -420,6 +428,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"main",
 			"has_and",
 			"has_many",
 			"has_and",
@@ -546,8 +555,7 @@
 			"spoken",
 			"speechorder",
 			"speakingCharacterInput",
-			"spokenby",
-			"sanitizeSvg"
+			"spokenby"
 		],
 		"highlight": true,
 		"in_selection": false,
